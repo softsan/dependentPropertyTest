@@ -1,0 +1,34 @@
+﻿<Properties StartupItem="Droid\dependentPropertyTest.Droid.csproj" RefactoringSettings.EnableRefactorings="True">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Android.192.168.50.101:5555" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="D:\Sudhir\rnd\dependentPropertyTest\dependentPropertyTest\InnerView.xaml.cs" line="105" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="dependentPropertyTest\InnerView.xaml">
+    <Files>
+      <File FileName="dependentPropertyTest\InnerView.xaml" Line="9" Column="39" />
+      <File FileName="dependentPropertyTest\InnerView.xaml.cs" Line="87" Column="1" />
+      <File FileName="dependentPropertyTest\dependentPropertyTestPage.xaml" Line="7" Column="15" />
+      <File FileName="dependentPropertyTest\App.xaml" Line="1" Column="1" />
+      <File FileName="dependentPropertyTest\App.xaml.cs" Line="29" Column="2" />
+      <File FileName="dependentPropertyTest\BingSpeechApi.cs" Line="71" Column="27" />
+      <File FileName="dependentPropertyTest\IAudioRecorder.cs" Line="9" Column="25" />
+      <File FileName="Droid\Services\AudioRecorderService.cs" Line="17" Column="52" />
+      <File FileName="Droid\Properties\AndroidManifest.xml" Line="10" Column="12" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="dependentPropertyTest" expanded="True">
+            <Node name="dependentPropertyTest" expanded="True">
+              <Node name="InnerView.xaml" expanded="True" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.dependentPropertyTest.Droid PreferredExecutionTarget="Android.192.168.50.101:5555" />
+</Properties>

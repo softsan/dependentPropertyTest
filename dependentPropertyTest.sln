@@ -1,0 +1,19 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{D954291E-2A0B-460D-934E-DC6B0785DB48}") = "dependentPropertyTest", "dependentPropertyTest\dependentPropertyTest.shproj", "{DB5FC736-72BE-41B4-A770-9842AF8151BA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dependentPropertyTest.Droid", "Droid\dependentPropertyTest.Droid.csproj", "{63A3B5BB-7038-4D2F-B8C5-A00459344DD2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{63A3B5BB-7038-4D2F-B8C5-A00459344DD2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63A3B5BB-7038-4D2F-B8C5-A00459344DD2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63A3B5BB-7038-4D2F-B8C5-A00459344DD2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63A3B5BB-7038-4D2F-B8C5-A00459344DD2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
